@@ -1,3 +1,5 @@
+Predicting the Likelihood of E-Signing a Loan Based on Financial History
+
 The Model Building Process is composed of multiple parts:
 
 Plotting with Matplotlib and Seaborn - A lot of time will be spent on Exploratory Data Analysis (EDA)
